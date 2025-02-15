@@ -1,8 +1,45 @@
-# React + Vite
+# TokenLaunchPad 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TokenLaunchPad is a decentralized platform that allows users to create, manage, and launch their own tokens effortlessly. This platform simplifies the process of token creation, fundraising, and distribution, making it accessible for everyone.
 
-Currently, two official plugins are available:
+## Live Demo 🌐
+🔗 **[Visit TokenLaunchPad](https://token-launch-pad.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots 📸
+![Screenshot 1](https://github.com/user-attachments/assets/26b048fd-7012-41bd-a5e7-520c5a904d7b)  
+![Screenshot 2](https://github.com/user-attachments/assets/3ec133aa-d456-49f9-b407-4eac1bee35fc)  
+![Screenshot 3](https://github.com/user-attachments/assets/e685533c-933e-4dab-80b6-908344f914fa)  
+
+## Tech Stack 🛠
+- **Frontend:** React.js, Tailwind CSS  
+- **Solana SDKs:** @solana/web3.js, @solana/spl-token  
+- **Wallet Integration:** @solana/wallet-adapter-react, @solana/wallet-adapter-react-ui  
+- **Hosting:** Vercel  
+
+## Features 🔥
+✅ **Token Creation** - Easily generate your own tokens on Solana.  
+✅ **Solana Wallet Integration** - Supports Phantom and other Solana wallets.  
+✅ **User-Friendly Interface** - Intuitive UI for smooth navigation.  
+✅ **No Backend Required** - Fully client-side implementation.  
+
+## Installation & Setup 🚀
+To run the project locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/saurabhhh777/TokenLaunchPad.git
+cd TokenLaunchPad
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+```
+
+
+## 📞 Contact Me
+LinkedIn: [Saurabh Maurya](https://www.linkedin.com/in/saurabh-maurya-92b727245/)
+Twitter: [@saurabhhh777](https://twitter.com/saurabhhh777)
+Email: saurabhhhere@gmail.com
