@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import { Keypair, SystemProgram,Transaction } from "@solana/web3.js";
 import { useConnection, useWallet } from "@solana/wallet-adapter-react";
 import {MINT_SIZE,createInitializeMint2Instruction ,getMinimumBalanceForRentExemptMint,TOKEN_PROGRAM_ID} from "@solana/spl-token";
